@@ -1,3 +1,17 @@
+# Custom
+/bak/
+/.vscode
+/Figure_?.svg
+
+#Will release when paper under review
+2020-08-17_NucSupportingTablesS2456_SS1.xlsx 
+dat-cpdchemblid-to-activity.json
+dat-plateid-to-chemblid.json
+dat-plateid-to-hithumantargetnames.json
+dat-plateid-to-hithumantargets.json
+dat-plateid-to-smiles.json
+dat-targetchemblid-to-targetinfo.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
