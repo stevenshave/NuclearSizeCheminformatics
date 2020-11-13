@@ -1,3 +1,8 @@
+"""
+Make lookup for hits to proteins
+
+"""
+
 import json
 from pathlib import Path
 print("Loading targets list")

@@ -1,3 +1,12 @@
+"""
+Determine how many compounds in ChEMBL27 meet our activity cutoff
+
+Using SQLite, not the web service, as it would be too slow, we determine the
+number of unique compounds involved in recorded activities that meet our
+cutoff criteria.
+"""
+
+
 import sqlite3
 from sqlite3 import Error
 

@@ -1,3 +1,8 @@
+"""
+Count actives in ChEMBL for each of our protein targets hit.
+
+"""
+
 import sqlite3
 import json
 from pathlib import Path

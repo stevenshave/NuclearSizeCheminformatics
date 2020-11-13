@@ -1,3 +1,8 @@
+"""
+Make the semicolon separated datafile for import into excel mapping hits to proteins.
+
+"""
+
 import json
 from pathlib import Path
 print("Loading targets list")
